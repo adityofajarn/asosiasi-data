@@ -1,0 +1,25 @@
+body {
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    }
+  
+    /*------------------- Navbar ---------------------*/
+    .navbar {
+        background-color: #171941;
+        color: rgb(247, 247, 239);
+        font-family: Poppins;
+        min-height: 7vh;
+    }
+    /*---------x--------- Navbar -----------x---------*/
+
+
+
+    /*------------------- Content ---------------------*/
+    .bg{
+        background: url("/static/images/bg.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    /*---------x--------- Content -----------x---------*/
+
